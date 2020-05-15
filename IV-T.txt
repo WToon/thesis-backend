@@ -1,0 +1,6 @@
+1. Calculate angle
+2. Divide by sample frequency
+3. Match against threshold (T.B.D.)
+4. Determine fixation
+
+5. Send across backend to front end
